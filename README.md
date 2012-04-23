@@ -24,6 +24,6 @@ Levels
 * Expert challenges
    * Any shape once - the total will be between 1 and 55, inclusive.  You may select any shape, but each shape can only be placed on the pan once.
    * One shape multiples - the total will be a product (composite number aka no primes) between 2 and 60, inclusive.  You may select a single shape any number of times, and you may not select any other shape.
-
+ test
 **Play at [bsiegal.github.com/ShapeEquate](http://bsiegal.github.com/ShapeEquate).**
 
